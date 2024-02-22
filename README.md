@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps, Generative AI**
 
-- 💬 Ask me about **Web/App Development, AWS, Javascript**
+- 💬 Ask me about **Web/App Development and testing, AWS, Javascript**
 
 - 📫 How to reach me **emailkrishnadas@gmail.com**
 

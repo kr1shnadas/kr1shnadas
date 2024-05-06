@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Das</h1>
-<h3 align="center">Unlocking Digital Dreams: Cloud-Powered Fullstack Developer | Dual AWS Champion | Azure Aficionado | Tech Alchemist | Committed to Growth, Innovation, and Impact/h3>
+<h3 align="center">Unlocking Digital Dreams: Cloud-Powered Fullstack Developer | Dual AWS Champion | Azure Aficionado | Tech Alchemist | Committed to Growth, Innovation, and Impact</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr1shnadas&label=Profile%20views&color=0e75b6&style=flat" alt="kr1shnadas" /> </p>
 
